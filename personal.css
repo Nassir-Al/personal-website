@@ -1,0 +1,75 @@
+body { 
+    background-color: blanchedalmond; 
+} 
+.header1 { 
+    position: fixed; 
+    z-index: 1; 
+    top:0px; 
+} 
+.header1__headline {
+    color: rgb(207, 26, 26);   
+
+}
+.header1__nav {
+    padding-top: 10px;
+}
+.main1{
+    margin-top: 100px;
+}
+.Kontaktdaten{ 
+    padding: 10px; 
+    background-color: white; 
+    border-radius: 10px; 
+    background-color: rgb(216, 206, 194); 
+} 
+.form__svg{
+    position: fixed;
+    z-index: 1; 
+    bottom:0px; 
+}
+.h3 { 
+    font-size: 30; 
+}  
+ .bio1{
+text-decoration: none;
+margin-left: 30px;
+ }
+ .über-mich{
+    text-decoration: none;
+    margin-left: 50px;
+ }
+.bild{ 
+    border-radius: 30%; 
+    width: 50%; 
+} 
+.p1 { 
+    position: relative;  
+    left: 20%; 
+    top:75px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bold; 
+} 
+
+ 
+.p2 { 
+   font-family: Arial, Helvetica, sans-serif; 
+   font-weight:bolder; 
+} 
+ 
+.p3 { 
+    font-family: 'Courier New', Courier, monospace; 
+} 
+ 
+.p4 { 
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+.suche1{
+color: black
+}
+.suche2{
+
+}
+.suche3{
+
+}
